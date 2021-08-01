@@ -1,0 +1,12 @@
+
+.details {
+    /* text-align: ; */
+    white-space: pre-line;
+}
+.solution{
+    white-space: pre-line;
+    background-color: green;
+    color: white;
+    font-weight: 800;
+    /* text-align:left; */
+}

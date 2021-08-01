@@ -1,0 +1,10 @@
+.flashm{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(196, 40, 40);
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    transition: 1s;
+}
